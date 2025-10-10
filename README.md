@@ -139,4 +139,4 @@ docker run -p 8000:8000 faers-api
 
 ---
 
-🔗 [LinkedIn](https://www.linkedin.com/in/sifat-sami/) • [GitHub](https://github.com/sifatsami)
+🔗 [LinkedIn](https://www.linkedin.com/in/sifat-sami/)

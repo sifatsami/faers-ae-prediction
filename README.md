@@ -114,7 +114,7 @@ Open: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
 
 ## Models Trained
 
-| Model | Type | ROC-AUC | PR Score |
+| Model | Type | ROC-AUC | PR Score | Notes |
 |--------|------|----------|-----------|--------|
 | Logistic Regression | Linear | ~0.83 | Stable baseline |
 | Random Forest | Ensemble | ~0.88 | Non-linear feature capture |

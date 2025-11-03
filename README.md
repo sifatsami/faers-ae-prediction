@@ -121,7 +121,15 @@ Open: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
 | Gradient Boosting | Ensemble | ~0.90 | Best performer overall |
 
 ---
+## Gradient Boosting: Top Features
 
+The Gradient Boosting model performed the best, and the chart below highlights the top 15 most important features driving its predictions.
+
+Key influences include:
+age_mean and react_Drug interaction as dominant drivers.
+High impact from reaction count and severe outcomes like death and loss of consciousness.
+
+---
 ## Explainability with SHAP
 
 - `drug_name` → Most predictive feature  

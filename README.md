@@ -19,9 +19,10 @@ It includes:
 
 The Gradient Boosting model performed the best, and the chart below highlights the top 15 most important features driving its predictions.
 ![Gradient Boosting Top Features](https://github.com/sifatsami/faers-ae-prediction/blob/main/output.png?raw=true)
+
 Key influences include:
-age_mean and react_Drug interaction as dominant drivers.
-High impact from reaction count and severe outcomes like death and loss of consciousness.
+-age_mean and react_Drug interaction as dominant drivers.
+-High impact from reaction count and severe outcomes like death and loss of consciousness.
 
 ---
 ## Structure
